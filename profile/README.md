@@ -1,11 +1,11 @@
-# surf90 (Unofficial Tech Project)
+# surf90 (Unofficial Tech Tools)
 
-茅ヶ崎の海を愛する方々のために、デジタルツールを開発・公開している非公式プロジェクトです。
+茅ヶ崎の海を愛する方々のために、デジタルツールを開発・公開しています。
 海での「あったらいいな」を形にしようとしています。
 
 ---
 
-## 🌊 公開中のプロジェクト
+## 🌊 公開中のツール
 
 ### [chigasaki-beach-weather](https://github.com/surf90/chigasaki-beach-weather)
 **茅ヶ崎ヘッドランド（Tバー）周辺コンディション確認アプリ**
