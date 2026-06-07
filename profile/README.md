@@ -7,12 +7,19 @@
 
 ## 🌊 公開中のツール
 
-### [chigasaki-beach-weather](https://github.com/surf90/chigasaki-beach-weather)
+### [chiga-log](https://surf90.github.io/chiga-log/)
 **茅ヶ崎ヘッドランド（Tバー）周辺コンディション確認アプリ**
 
 茅ヶ崎の現場に特化した気象・波・潮汐情報を集約したWebアプリです。
-* **URL:** [https://surf90.github.io/chigasaki-beach-weather/](https://surf90.github.io/chigasaki-beach-weather/)
+* **URL:** [https://surf90.github.io/chiga-log/](https://surf90.github.io/chiga-log/)
 * **特徴:** GitHub Actionsによる自動データ更新、視覚的な潮汐グラフ、スマートフォン最適化。
+
+### [chiga-bio](https://surf90.github.io/chiga-bio/)
+**茅ヶ崎ヘッドランド（Tバー）周辺生物情報確認アプリ**
+
+茅ヶ崎の現場に特化した生物情報を集約したWebアプリです。
+* **URL:** [https://surf90.github.io/chiga-bio/](https://surf90.github.io/chiga-bio/)
+* **特徴:** GitHub Pagesによるデータ表示、スマートフォン最適化。
 
 ---
 
