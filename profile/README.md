@@ -8,18 +8,37 @@
 ## 🌊 公開中のツール
 
 ### [chiga-log](https://surf90.github.io/chiga-log/)
-**茅ヶ崎ヘッドランド（Tバー）周辺コンディション確認アプリ**
+**茅ヶ崎海岸周辺のコンディション確認アプリ**
 
-茅ヶ崎の現場に特化した気象・波・潮汐情報を集約したWebアプリです。
+茅ヶ崎ヘッドランド（Tバー）やサザンビーチ茅ヶ崎など、茅ヶ崎海岸周辺の潮汐・波・水温・天気を集約したWebアプリです。
 * **URL:** [https://surf90.github.io/chiga-log/](https://surf90.github.io/chiga-log/)
 * **特徴:** GitHub Actionsによる自動データ更新、視覚的な潮汐グラフ、スマートフォン最適化。
 
 ### [chiga-bio](https://surf90.github.io/chiga-bio/)
-**茅ヶ崎ヘッドランド（Tバー）周辺生物情報確認アプリ**
+**茅ヶ崎の生き物情報確認アプリ**
 
-茅ヶ崎の現場に特化した生物情報を集約したWebアプリです。
+砂浜・磯・海・河口に加え、町中や林など身近な環境の生き物まで収録したWebアプリです。
 * **URL:** [https://surf90.github.io/chiga-bio/](https://surf90.github.io/chiga-bio/)
-* **特徴:** GitHub Pagesによるデータ表示、スマートフォン最適化。
+* **特徴:** 名前・分類・危険度・環境・季節での絞り込み、PWAによるオフライン閲覧、スマートフォン最適化。
+
+### [tide-PDF](https://surf90.github.io/tide-PDF/)
+**1か月分の潮汐表を印刷するためのアプリ**
+
+潮汐情報をA4縦・モノクロ印刷向けに整形し、ブラウザの印刷機能から紙またはPDFで出力できます。
+* **URL:** [https://surf90.github.io/tide-PDF/](https://surf90.github.io/tide-PDF/)
+* **特徴:** バインダー保管を想定したA4一枚レイアウト、手書きメモ用の備考欄。
+
+### [rescue-sim](https://surf90.github.io/rescue-sim/)
+**救助の動きのシミュレータ**
+
+救助時の動きを画面上で確認できるシミュレータです。
+* **URL:** [https://surf90.github.io/rescue-sim/](https://surf90.github.io/rescue-sim/)
+
+---
+
+## 🌐 ポータル
+
+公開中のツールは [https://surf90.github.io/](https://surf90.github.io/) から一覧できます。
 
 ---
 
