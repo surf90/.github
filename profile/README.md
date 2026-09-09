@@ -29,9 +29,9 @@
 * **特徴:** バインダー保管を想定したA4一枚レイアウト、手書きメモ用の備考欄。
 
 ### [rescue-sim](https://surf90.github.io/rescue-sim/)
-**救助の動きのシミュレータ**
+**茅ヶ崎ヘッドランド 救助連携シミュレーター**
 
-救助時の動きを画面上で確認できるシミュレータです。
+要救助者の配置や環境条件を設定し、チューブ・ボード・IRB・PWCなどの救助連携を画面上で確認できます。
 * **URL:** [https://surf90.github.io/rescue-sim/](https://surf90.github.io/rescue-sim/)
 
 ---
